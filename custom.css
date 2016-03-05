@@ -1,0 +1,16 @@
+.navbar-inverse {
+    background-color: #b0201b;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #a9cc33;
+    font-size: 22px;
+}
+
+.navbar-logo {
+    margin: 3px 12px 3px 0px;
+}
+
+.jumbotron {
+    background-image: url("./img/light-wood-texture.jpg");
+}
